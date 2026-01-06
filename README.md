@@ -1,2 +1,6 @@
 # SQUAD_3_DATA_ENGINEERING
-Repositório de desenvolvimento e experimentação de engenharia de dados para o hackathon da Pod Academy - Squad 3 
+
+Repositório de **Data Engineering** do Hackathon da **Pod Academy — Squad 3**.
+
+🚧 **Em desenvolvimento**.  
+Este é um **repositório espelho** e receberá **atualizações em breve**.
